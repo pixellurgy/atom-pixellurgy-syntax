@@ -1,0 +1,16 @@
+{
+  "name": "pixellurgy-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A dark syntax theme for Atom",
+  "keywords": [
+    "dark",
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/pixellurgy/atom-pixellurgy-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
